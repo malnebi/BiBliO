@@ -8,7 +8,7 @@
                 <table class="table">
                     <thead>
 
-                        <tr> <h3> List of all loans </h3>
+                        <tr> <h3> List of all loans of the library books. </h3>
                         </tr>
 
 
